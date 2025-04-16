@@ -1,4 +1,4 @@
-# UnifiedMentor-Laptop_Data_Analysis
+# Laptop_Data_Analysis
 
 # 💻 Laptop Price Analysis
 
